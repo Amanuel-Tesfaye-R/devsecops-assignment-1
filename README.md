@@ -9,3 +9,4 @@ This repository contains the practical work for Module One (DevOps & DevSecOps F
 ## Project structure
 
 - `app/` — Application entry point (`app/index.js`)
+- `config/` — Environment variable loader and configuration defaults (`config/env.js`)
